@@ -1,0 +1,9 @@
+name: project_euler_crystal
+version: 0.1.0
+
+authors:
+  - londoed <londoed@comcast.net>
+
+crystal: 0.24.2
+
+license: MIT
