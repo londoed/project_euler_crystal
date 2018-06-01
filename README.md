@@ -1,6 +1,6 @@
 # project_euler_crystal
 
-TODO: Write a description here
+Just having some fun with Crystal lang!
 
 ## Installation
 
